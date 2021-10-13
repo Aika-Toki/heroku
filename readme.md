@@ -1,6 +1,9 @@
 # 目次
-1. [Class命名ルール](#anchor1)
-    1-1.[それぞれの意味、役割](#anchor1-1)
+1. [Class命名ルール](#anchor1)  
+   1-1.[それぞれの意味、役割](#anchor1-1)  
+   1-2.[BlockとElement](#anchor1-2)  
+   1-3.[セクションについて](#anchor1-3)  
+   1-4.[命名ルール](#anchor1-4)
 ***
 <a id="anchor1"></a>
 >Class命名ルール  
@@ -26,7 +29,7 @@
 >>>Block__Element-list(M)-active(M)
 >>>```
 >>>***
->>>
+>> <a id="anchor1-2"></a>
 >>BlockとElement
 >>>
 >>>***Blockになるタグ***
@@ -41,7 +44,7 @@
 >>>なお、divは極力Elementとして扱う。
 >>>```
 >>>***
->>>
+>> <a id="anchor1-3"></a>
 >>セクションについて
 >>>```html
 >>><div>以外のタグでh1~h6を挟んではいけない。
@@ -49,6 +52,7 @@
 >>>```
 >>>***
 >>>
+>> <a id="anchor1-4"></a>
 >>命名ルール
 >>>
 >>>***Block***
@@ -84,7 +88,7 @@
 >>>__item
 >>>```
 >>>
->>>***-Modifire***
+>>>***-Modifier***
 >>>```text
 >>>-color
 >>>-list
