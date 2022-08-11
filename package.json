@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@parvineyvazov/json-translator": "^0.8.0"
+  }
+}
